@@ -134,8 +134,8 @@ data:extend(
 		animation =
 		{
 			filename = "__AlienPlant__/graphics/entities/alien-plant-forestry.png",
-			frame_width = 113,
-			frame_height = 91,
+			width = 113,
+			height = 91,
 			frame_count = 33,
 			line_length = 11,
 			shift = {0.2, 0.15}
