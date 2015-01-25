@@ -25,7 +25,7 @@ data:extend(
 		},
 		prerequisites =
 		{
-			"advanced-treefarming",
+			"tf-advanced-treefarming",
 			"alien-technology"
 		},
 		unit = 
